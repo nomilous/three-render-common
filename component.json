@@ -6,6 +6,7 @@
   "keywords": [],
   "dependencies": {
     "nomilous/three": "*",
+    "nomilous/three-system": "*",
     "nomilous/three-color": "*",
     "nomilous/three-math-common": "*"
   },
