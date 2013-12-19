@@ -1,4 +1,6 @@
-module.exports = THREE = require('three'); require('three-math-common');
+module.exports = THREE = require('three');
+require('three-color');
+require('three-math-common');
 
 
 /**
