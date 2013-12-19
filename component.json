@@ -1,0 +1,16 @@
+{
+  "name": "three-render-common",
+  "repo": "nomilous/three-render-common",
+  "description": "three.js - common render",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "nomilous/three-math-common": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
