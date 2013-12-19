@@ -4,3 +4,6 @@ three-render-common
 ===================
 
 three.js - common render
+
+
+* gets material and math via object

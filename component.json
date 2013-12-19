@@ -8,7 +8,7 @@
     "nomilous/three": "*",
     "nomilous/three-system": "*",
     "nomilous/three-color": "*",
-    "nomilous/three-math-common": "*"
+    "nomilous/three-object": "*"
   },
   "development": {},
   "license": "MIT",
